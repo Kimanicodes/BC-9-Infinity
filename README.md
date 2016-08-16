@@ -27,7 +27,7 @@ Commits also create a transparent history of your work that others can follow to
 
 ## ProTip
 
-Commit messages are important, especially since Git tracks your changes and then displays them as commits once they're pushed to the server. By writing clear commit messages, you can make it easier for other people to follow along and provide feedback.
+>Commit messages are important, especially since Git tracks your changes and then displays them as commits once they're pushed to the server. By writing clear commit messages, you can make it easier for other people to follow along and provide feedback.
 
 
 # 3. Open a Pull Request
