@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 ## Understand the Gitflow
 
 Source: [Github Guides](https://guides.github.com/features/mastering-markdown/)
@@ -18,6 +16,7 @@ Because of this, it's extremely important that your new branch is created off of
 # 2. Add commits
 Once your branch has been created, it's time to start making changes. Whenever you add, edit, or delete a file, you're making a commit, and adding them to your branch. This process of adding commits keeps track of your progress as you work on a feature branch.
 Commits also create a transparent history of your work that others can follow to understand what you've done and why. Each commit has an associated commit message, which is a description explaining why a particular change was made. Furthermore, each commit is considered a separate unit of change. This lets you roll back changes if a bug is found, or if you decide to head in a different direction.
+
 **ProTip**
 Commit messages are important, especially since Git tracks your changes and then displays them as commits once they're pushed to the server. By writing clear commit messages, you can make it easier for other people to follow along and provide feedback.
 
@@ -53,4 +52,4 @@ Once merged, Pull Requests preserve a record of the historical changes to your c
 **Pro Tip**
 
 By incorporating certain keywords into the text of your Pull Request, you can associate issues with code. When your Pull Request is merged, the related issues are also closed. For example, entering the phrase Closes #32 would close issue number 32 in the repository. For more information, check out our [help article](https://help.github.com/articles/closing-issues-via-commit-messages)
->>>>>>> 385c4159abc30957ecb4fd5c917d6d9b97b2901d
+
