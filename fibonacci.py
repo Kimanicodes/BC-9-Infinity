@@ -19,5 +19,3 @@ def fib(n):
         a, b = b, a+b
     return myList
     
-print(fib1(20))
-print(fib(19))
