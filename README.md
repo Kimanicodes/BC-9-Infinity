@@ -2,6 +2,9 @@
 
 Source: [Github Guides](https://guides.github.com/features/mastering-markdown/)
 
+GitHub Flow is a lightweight, branch-based workflow that supports teams and projects where deployments are made regularly. This guide explains how and why GitHub Flow works.
+
+
 
 #1. Create a branch
 When you're working on a project, you're going to have a bunch of different features or ideas in progress at any given time – some of which are ready to go, and others which are not. Branching exists to help you manage this workflow.
